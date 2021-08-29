@@ -1,5 +1,5 @@
 package centro;
-//+++//
+//++++//
 public class Atencion {
 	
 	private int hc;
